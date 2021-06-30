@@ -1,6 +1,6 @@
 # Hi there, I`m Plain 👋 👨‍💻
 
-## 🌏 Find me around the web <a href="https://github.com/plain-dev/"><img align="left" width="150" src="./assets/github-readme.svg" /></a>
+## 🌏 Find me around the web <a href="https://github.com/plain-dev"><img align="left" width="150" src="./assets/github-readme.svg" /></a>
 
 [![Github](https://img.shields.io/badge/github-242424.svg?style=for-the-badge&logo=github)](https://github.com/plain-dev)
 [![Twitter](https://img.shields.io/badge/twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/plain_dev)
