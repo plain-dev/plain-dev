@@ -1,5 +1,7 @@
 # Hi there, I`m Plain 👋 👨‍💻
 
+![github](https://github.githubassets.com/images/modules/site/home/footer-illustration.webp)
+
 ## 🌏 Find me around the web <a href="https://github.com/plain-dev"><img align="left" width="150" src="./assets/github-readme.svg" /></a>
 
 [![Github](https://img.shields.io/badge/github-242424.svg?style=for-the-badge&logo=github)](https://github.com/plain-dev)
